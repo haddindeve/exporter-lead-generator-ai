@@ -1,0 +1,40 @@
+# Exporter Lead Generator - AI B2B Buyer Discovery
+
+> Natural-language search over verified exporter and buyer data, turning a plain question into a qualified list.
+
+Author: Muhammad Tanveer (Full-Stack AI Automation Engineer)
+Contact: mtanveertahir66@gmail.com | https://www.linkedin.com/in/muhammad-tanveer-advenno/
+Repository: https://github.com/haddindeve/exporter-lead-generator-ai
+Source availability: implementation held in a private repository; access on request.
+
+## Summary
+Exporters looking for buyers work through directories and trade listings by hand. Finding companies that match a specific product, market and size means many searches and a lot of manual filtering, repeated for every new market.
+
+A natural-language query layer over collected and verified company data. The operator describes the buyer they want in plain language; the system translates that into structured filters, runs it against the dataset, and returns a qualified list with the contact detail needed to act on it.
+
+## Stack
+Language: Python, Query: LLM-driven natural-language interpretation, Data: Verified company and contact dataset, Testing: Automated test suite
+
+## Capabilities
+- Plain-language buyer search
+- Verified contact data
+- Profile-based qualification
+- Exportable qualified lists
+- Repeatable market research runs
+
+## Outcomes
+- Directory research reduced to a single described query
+- Repeatable per-market runs instead of one-off manual searches
+
+## FAQ
+Q: What does natural-language search mean here?
+A: You describe the buyer you want in a sentence; the system converts that into structured filters and runs it against the dataset.
+
+Q: Where does the data come from?
+A: Collected company records passed through a verification step before they reach the result set.
+
+Q: Who is it for?
+A: Exporters and trade businesses that need buyer discovery in specific markets.
+
+Q: Is the implementation public?
+A: No - private repository, access on request.
